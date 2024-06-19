@@ -22,10 +22,10 @@ Acest proiect consta intr-o aplicatie web interactiva creata cu Three.js, care r
     •Controale: Implementarea controalelor dat.gui pentru ajustarea proprietatilor obiectelor in scene.
 
 ## Tehnologii Utilizate
-    •Three.js: Biblioteca principala pentru crearea si manipularea scenelor 3D.
-    •React: Pentru structura modulara si gestionarea componentelor.
-    •GLTFLoader: Pentru incarcarea modelelor 3D externe in format .glb.
-    •dat.gui: Pentru crearea de controale interactiva pentru obiectele 3D.
+Three.js: Biblioteca principala pentru crearea si manipularea scenelor 3D.
+React: Pentru structura modulara si gestionarea componentelor.
+GLTFLoader: Pentru incarcarea modelelor 3D externe in format .glb.
+dat.gui: Pentru crearea de controale interactiva pentru obiectele 3D.
 
 ![Screenshot](assets/DayMode.png)
 ![Screenshot](assets/NightMode.png)
