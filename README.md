@@ -1,4 +1,3 @@
-# Aplicatie Grafica Computerizata - Forest App
 # Proiect Three.js: Scena Interactiva Padure Zi si Noapte
 
 Acest proiect consta intr-o aplicatie web interactiva creata cu Three.js, care reprezinta o scena intr-o padure, impartita in doua moduri: zi si noapte. Scena de baza este definita in doua componente principale: ForestSceneDay si ForestSceneNight, fiecare cu propriile elemente specifice.
